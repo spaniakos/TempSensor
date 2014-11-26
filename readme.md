@@ -1,1 +1,1 @@
-This library is for grove analog light sensor or every sensor with GL5528 LDR.
+This library is for grove temperature sensor or every sensor with TTC03 Thermistor.
