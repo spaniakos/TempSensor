@@ -129,7 +129,7 @@ class TempSensor{
 *
 * Please refer to:
 *
-* @li <a href="http://spaniakos.github.io/TempSensor/classTempSensor.html"><b>LCD</b> Class Documentation</a>
+* @li <a href="http://spaniakos.github.io/TempSensor/classTempSensor.html"><b>TempSensor</b> Class Documentation</a>
 * @li <a href="https://github.com/spaniakos/TempSensor/archive/master.zip"><b>Download</b></a>
 * @li <a href="https://github.com/spaniakos/TempSensor/"><b>Source Code</b></a>
 * @li <a href="http://spaniakos.github.io/">All spaniakos Documentation Main Page</a>
