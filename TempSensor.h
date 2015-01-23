@@ -30,7 +30,7 @@ class TempSensor{
 	 * class constructor.
 	 * 
 	 * @param pin uint8_t Number of the pin to be used for reading
-	 * @param thres float value of the threshold that will be used
+	 * @param Thres float value of the threshold that will be used
 	 */
 	TempSensor(uint8_t pin,float Thres);
 	
