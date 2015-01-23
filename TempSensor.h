@@ -103,17 +103,17 @@ class TempSensor{
 };
 #endif //TempSennsor
 
-**
- * @example LUX.ino
+/**
+ * @example Temperature.ino
  * <b>For Arduino</b><br />
  * <b> updated: spaniakos 2015</b><br />
  *
- * In this example a simple readingof the sensor value is printed into Serial.<br />
- * the valueis first converted to LUX using class functions.
+ * In this example a simple reading of the sensor value is printed into Serial.<br />
+ * the valueis first converted to Celcius using class functions.
  */
 
 /**
-  * @mainpage grove TempSensor (TTC03 Thermistor) library for arduino
+  * @mainpage grove TempSensor (TTC03 Thermistor) library for arduino.
   *
   * @section Goals Design Goals
   *
