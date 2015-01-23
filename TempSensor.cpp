@@ -19,6 +19,15 @@ TempSensor::TempSensor(uint8_t pin,float Thres){
 		Rensor = 0;
 		TempeThres = Thres;
 }
+
+TempSensor::TempSensor(uint8_t pin){
+		pinTemp = pin;
+		temperature = 0;
+		sensorValue = 0;
+		Old_temperature = 0;
+		Rensor = 0;
+		TempeThres = 0.10;
+}
 	
 void TempSensor::begin(){
 	pinMode(pinTemp, OUTPUT);
